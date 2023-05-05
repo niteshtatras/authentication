@@ -1,13 +1,16 @@
 name: common_authentication
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: To login using http package
+version: 0.0.2
+homepage: https://github.com/niteshtatras/authentication
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
+  cupertino_icons: ^1.0.2
+  http: ^0.13.6
+
   flutter:
     sdk: flutter
 
