@@ -1,4 +1,4 @@
-name: common_authentication
+name: common_local_authentication
 description: To login using http package
 version: 0.0.2
 homepage: https://github.com/niteshtatras/authentication
